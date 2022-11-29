@@ -1,6 +1,6 @@
 {
-  "deploymentId" : "0faf4ecf-bfdf-4788-82c6-9fb5b3f8308f",
-  "isResourceDeleted" : false,
+  "deploymentId" : "<proton-resource-deleted>",
+  "isResourceDeleted" : true,
   "resourceMetadata" : {
     "arn" : "arn:aws:proton:us-east-1:346078522763:environment/test2",
     "templateArn" : "arn:aws:proton:us-east-1:346078522763:environment-template/hi-notify-bug-bash",
